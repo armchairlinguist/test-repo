@@ -1,2 +1,1 @@
-valid_token = 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
-invalid_token = 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
+
