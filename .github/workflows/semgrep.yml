@@ -22,6 +22,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: |
-        sleep 15
+        sleep 60
         echo $GITHUB_REF
         semgrep ci
